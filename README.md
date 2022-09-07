@@ -1,0 +1,2 @@
+# Water Reservoir Automation System (WRAS)
+Water Reservoir Automation System automatically switches water pump to transfer water from massive underground reservoir to smaller overhead reservoir for daily usage. It senses water levels of both reservoirs using ultrasonic sensors and displays water levels on a LED Bar Graph Display. Alerts are generated on low-levels of water and a beeper is turned on.
